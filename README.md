@@ -369,7 +369,6 @@ Full Stack    █░░░░░░░░░ 10%
 
 # 🐍 Contribution Snake
 
-> **بعد إنشاء GitHub Action سيظهر السناك هنا تلقائياً**
 
 <p align="center">
 
