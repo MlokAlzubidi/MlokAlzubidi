@@ -298,17 +298,23 @@ Databases     ██░░░░░░░░ 20%
 Full Stack    █░░░░░░░░░ 10%
 ```
 
----
-# 📊 GitHub Analytics
+# 📊 GitHub Profile Summary
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MlokAlzubidi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MlokAlzubidi&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MlokAlzubidi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
 
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MlokAlzubidi&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MlokAlzubidi&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MlokAlzubidi&theme=tokyonight"/>
+
+</p>
 ---
 
 # 🔥 GitHub Streak
