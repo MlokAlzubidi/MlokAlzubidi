@@ -103,6 +103,154 @@ I'm continuously improving my programming, problem-solving, and Git workflow thr
 ---
 
 # 🎯 2026 Goals
+---
+
+# ⭐ Featured Projects
+
+<details>
+<summary><b>🌐 Personal Portfolio Website</b></summary>
+
+<br>
+
+A modern personal portfolio showcasing my journey, skills, and projects as a Software Engineering student.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | HTML5, CSS3 |
+| **Responsive** | ✅ |
+| **Status** | In Progress |
+| **Purpose** | Personal Branding |
+
+</details>
+
+---
+
+<details>
+<summary><b>🎴 Playing Cards UI</b></summary>
+
+<br>
+
+A responsive Playing Cards interface built using semantic HTML and CSS.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | HTML5, CSS3 |
+| **Responsive** | ✅ |
+| **Difficulty** | Beginner |
+| **Goal** | Practice Layouts |
+
+</details>
+
+---
+
+<details>
+<summary><b>🎉 Event Hub</b></summary>
+
+<br>
+
+A clean event landing page created while practicing semantic HTML and navigation.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | HTML5, CSS3 |
+| **Responsive** | ✅ |
+| **Goal** | Semantic HTML |
+
+</details>
+
+---
+
+<details>
+<summary><b>💻 CS50 Projects</b></summary>
+
+<br>
+
+Programming assignments completed during Harvard CS50, focusing on problem solving and C programming fundamentals.
+
+| Category | Details |
+|-----------|---------|
+| **Language** | C |
+| **Course** | Harvard CS50 |
+| **Topics** | Algorithms, Memory, Arrays |
+| **Status** | Ongoing |
+
+</details>
+
+---
+
+<details>
+<summary><b>🚀 Future Full Stack Projects</b></summary>
+
+<br>
+
+This section will grow with real-world web applications built throughout my learning journey.
+
+- Authentication
+- Dashboards
+- REST APIs
+- Full Stack Apps
+- Database Projects
+
+</details>
+
+---
+
+# 🎓 Education
+
+### Bachelor of Software Engineering
+
+**Al-Balqa Applied University**
+
+📅 2023 – 2027
+
+---
+
+# 🌱 Learning Journey
+
+- Responsive Web Design
+- JavaScript
+- Git & GitHub
+- Data Structures
+- Algorithms
+- Backend Development
+- Databases
+- Full Stack Development
+
+---
+
+# 🏆 Achievements
+
+| Achievement | Status |
+|------------|--------|
+| Software Engineering Student | ✅ |
+| GitHub Portfolio | 🚀 |
+| CS50 Student | 🚀 |
+| FreeCodeCamp Learning | 🚀 |
+| Building Personal Projects | 🚀 |
+
+---
+
+# 📜 Certifications
+
+### Currently Working Toward
+
+- Harvard CS50
+- Responsive Web Design
+- JavaScript Algorithms
+- Front End Development Libraries
+- Full Stack Development
+
+---
+
+# 💻 Coding Profiles
+
+Coming Soon...
+
+- LeetCode
+- HackerRank
+- Codewars
+
+---
 
 - Complete CS50
 - Complete FreeCodeCamp Certifications
