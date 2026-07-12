@@ -253,25 +253,20 @@ Coming Soon...
 ---
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MlokAlzubidi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MlokAlzubidi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MlokAlzubidi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MlokAlzubidi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<div align="center">
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=MlokAlzubidi&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
