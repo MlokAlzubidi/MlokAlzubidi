@@ -180,16 +180,6 @@ A modern event landing page built using semantic HTML.
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MlokAlzubidi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 # 🐍 Contribution Snake
 
 <p align="center">
