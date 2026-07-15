@@ -161,25 +161,6 @@ A modern event landing page built using semantic HTML.
 📅 2023 — 2027
 ---
 
-# 📊 GitHub Profile Summary
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MlokAlzubidi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MlokAlzubidi&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MlokAlzubidi&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MlokAlzubidi&theme=tokyonight"/>
-
-</p>
-
----
 # 🐍 Contribution Snake
 
 <p align="center">
